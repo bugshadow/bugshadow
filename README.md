@@ -18,8 +18,6 @@ I am Omar Bouhaddach, currently in my second year at the Higher School of Techno
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu">
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="40" height="40" alt="Kali Linux">
@@ -75,12 +73,3 @@ I'm continuously expanding my skills in **computer science**, with an emphasis o
 </p>
 
 ---
-
-### 📊 GitHub Statistics
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugs_shadow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugs_shadow)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bugs_shadow&theme=dark&background=000000)](https://git.io/streak-stats)
-</p>
