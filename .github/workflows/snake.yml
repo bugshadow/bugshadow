@@ -1,53 +1,98 @@
 name: GitHub Snake Game
 
+
+
 on:
-  # Programme le workflow pour s'exécuter tous les jours à minuit UTC
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
+
     - cron: "0 0 * * *"
 
-  # Permet de déclencher le workflow manuellement
+
+
+  # Allow manual triggering of the workflow
+
   workflow_dispatch:
 
-  # Déclenche le workflow lors de poussées sur la branche principale
+
+
+  # Trigger the workflow on pushes to the main branch
+
   push:
+
     branches:
+
       - main
 
+
+
 jobs:
+
   generate:
+
     runs-on: ubuntu-latest
+
     timeout-minutes: 10
 
+
+
     steps:
-      # Étape 1 : Cloner le dépôt
+
+      # Step 1: Checkout the repository
+
       - name: Checkout Repository
+
         uses: actions/checkout@v3
 
-      # Étape 2 : Générer l'animation Snake avec des options personnalisées
+
+
+      # Step 2: Generate the snake animations
+
       - name: Generate GitHub Contributions Snake Animations
+
         uses: Platane/snk@v3
+
         with:
-          # Nom d'utilisateur GitHub pour l'animation
+
+          # GitHub username to generate the animation for
+
           github_user_name: ${{ github.repository_owner }}
 
-          # Options de sortie et de personnalisation
+
+
+          # Define the output files and their configurations
+
           outputs: |
+
             dist/github-snake.svg
+
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#ff9999,#ffcc99,#ffcc66,#ff9966,#ff6600
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Étape 3 : Vérifier que les fichiers sont bien générés
-      - name: List Generated Files
-        run: ls -al dist
 
-      # Étape 4 : Déployer les fichiers générés dans la branche `output`
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
       - name: Deploy to Output Branch
+
         uses: peaceiris/actions-gh-pages@v3
+
         with:
+
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
           publish_dir: ./dist
+
           publish_branch: output
-          commit_message: "Mise à jour de l'animation snake [skip ci]"
+
+          # Optionally, you can set a custom commit message
+
+          commit_message: "Update snake animation [skip ci]"
+
