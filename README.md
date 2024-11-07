@@ -72,3 +72,11 @@ I'm continuously expanding my skills in **computer science**, with an emphasis o
 </p>
 
 ---
+
+
+
+
+![snake svg](https://raw.githubusercontent.com/bugshadow/blob/output/dist/github-snake-dark.svg)
+
+
+![snake gif](https://raw.githubusercontent.com/bugshadow/blob/output/dist/ocean.gif) 
