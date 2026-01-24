@@ -1,13 +1,21 @@
-██████╗ ███╗   ███╗ █████╗ ██████╗     ██████╗  ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
-██╔══██╗████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██╔═══██╗██║   ██║██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
-██║  ██║██╔████╔██║███████║██████╔╝    ██████╔╝██║   ██║██║   ██║███████║███████║██║  ██║██║  ██║███████║██║     ███████║
-██║  ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██╔══██╗██║   ██║██║   ██║██╔══██║██╔══██║██║  ██║██║  ██║██╔══██║██║     ██╔══██║
-██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝██████╔╝██║  ██║╚██████╗██║  ██║
-╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-
+```
+ ██████╗ ███╗   ███╗ █████╗ ██████╗ 
+██╔═══██╗████╗ ████║██╔══██╗██╔══██╗
+██║   ██║██╔████╔██║███████║██████╔╝
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+                                     
+██████╗  ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
+██╔══██╗██╔═══██╗██║   ██║██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
+██████╔╝██║   ██║██║   ██║███████║███████║██║  ██║██║  ██║███████║██║     ███████║
+██╔══██╗██║   ██║██║   ██║██╔══██║██╔══██║██║  ██║██║  ██║██╔══██║██║     ██╔══██║
+██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝██████╔╝██║  ██║╚██████╗██║  ██║
+╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 <div align="center">
   
-![Cybersecurity](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
+![https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdpOWg4djhkMnkwd2dwa2gyZGYweXNtdWpwNDdnNDJvcmQ4dXJ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif)
 
 ### `Cybersecurity Engineering Student` • `ENSET Mohammedia` • `NX5TXH`
 
@@ -141,16 +149,15 @@ Modèles expérimentaux de machine learning pour la classification de malwares e
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bugshadow&show_icons=true&theme=dark&hide_border=true&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=bugshadow&theme=dark&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7&sideLabels=00f7f7&dates=c9d1d9" width="48%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugshadow&layout=compact&theme=dark&hide_border=true&title_color=00f7f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="48%" alt="Top Languages" />
+
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugshadow&layout=compact&theme=dark&hide_border=true&title_color=00f7f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="48%" alt="Top Languages" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bugshadow&theme=github-dark&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=c9d1d9&area=true&area_color=00f7f7" width="98%" alt="Contribution Graph" />
 
 </div>
-
 #
 
 ### `cat vision.txt`
