@@ -1,23 +1,8 @@
-```
- ██████╗ ███╗   ███╗ █████╗ ██████╗ 
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗
-██║   ██║██╔████╔██║███████║██████╔╝
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                     
-██████╗  ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
-██╔══██╗██╔═══██╗██║   ██║██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
-██████╔╝██║   ██║██║   ██║███████║███████║██║  ██║██║  ██║███████║██║     ███████║
-██╔══██╗██║   ██║██║   ██║██╔══██║██╔══██║██║  ██║██║  ██║██╔══██║██║     ██╔══██║
-██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝██████╔╝██║  ██║╚██████╗██║  ██║
-╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
 <div align="center">
   
 ![https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdpOWg4djhkMnkwd2dwa2gyZGYweXNtdWpwNDdnNDJvcmQ4dXJ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif)
 
-### `Cybersecurity Engineering Student` • `ENSET Mohammedia` • `NX5TXH`
+### `Cybersecurity Engineering Student` • `NX5TXH`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Securing+Systems+%7C+Analyzing+Threats;AI+%2B+Cybersecurity+%2B+Cloud;Building+Digital+Fortresses" alt="Typing SVG" />
 
@@ -40,9 +25,7 @@
 ### `whoami`
 
 ```yaml
-name: Omar Bouhaddach
 role: Cybersecurity & Digital Trust Engineering Student
-institution: ENSET Mohammedia
 mindset: Defense through deep understanding of offense
 focus: [Network Security, Cloud Architecture, AI-Driven Defense]
 ```
